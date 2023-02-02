@@ -1,5 +1,6 @@
 # Personal ignores
 _provided_files/
+_provided_items/
 .env
 .prettierignore
 .eslintignore
