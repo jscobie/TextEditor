@@ -7,6 +7,12 @@
 
 This project is J.A.T.E. Just A Test Editor Progressive Web Application. We were given completed code that needed troubleshooting to make this work as a Progressive Web App and use IndexedDB along with all the Webpack tools and configurations.
 
+# Demo of web application running in Chrome - Shows manifest, IndexedDb, and Service Workers registered:
+![Demo of Web Application in Chrome](./assets/00-page-indexdb-manifest-serviceworker.gif)
+
+# Demo of PWA Install of JATE application and Open:
+![Demo of PWA install and Open](./assets/01-app-running.gif)
+
 ### Required links for review and grading submission
 [Github Repository Link](https://github.com/jscobie/TextEditor)<br>
 [Heroku Deployed Site]()
@@ -33,9 +39,9 @@ npm i
 ```
 **3. You will need to build the dist folder:**
 ```
-npm run build
+npm run start
 ```
-**4. Finally open the Index.html file inside the dist folder in Chrome**
+**4. Open Chrome Browser: localhost:3000**
 
 ## Usage
 
@@ -51,10 +57,6 @@ N/A
 ## Credits
 
 Credit to the MSU Bootcamp and instructors for training and training materials to resolve some of these issues.<br>
-*Programs, packages used:*<br>
-[Express](https://www.npmjs.com/package/express)<br>
-[Eslint](https://www.npmjs.com/package/eslint)<br>
-[prettier](https://www.npmjs.com/package/prettier)<br>
 
 ## Questions:
 *Use the following options to contact me for questions:*<br>
