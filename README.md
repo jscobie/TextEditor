@@ -15,7 +15,7 @@ This project is J.A.T.E. Just A Test Editor Progressive Web Application. We were
 
 ### Required links for review and grading submission
 [Github Repository Link](https://github.com/jscobie/TextEditor)<br>
-[Heroku Deployed Site]()
+[Heroku Deployed Site](https://stark-depths-09292.herokuapp.com/)
 
 ## Table of Contents
 
