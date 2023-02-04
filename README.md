@@ -7,15 +7,15 @@
 
 This project is J.A.T.E. Just A Test Editor Progressive Web Application. We were given completed code that needed troubleshooting to make this work as a Progressive Web App and use IndexedDB along with all the Webpack tools and configurations.
 
+### Required links for review and grading submission
+[Github Repository Link](https://github.com/jscobie/TextEditor)<br>
+[Heroku Deployed Site](https://stark-depths-09292.herokuapp.com/)
+
 Demo of web application running in Chrome - Shows manifest, IndexedDb, and Service Workers registered:<br>
 ![Demo of Web Application in Chrome](./assets/00-page-indexdb-manifest-serviceworker.gif)
 
 Demo of PWA Install of JATE application and Open:<br>
 ![Demo of PWA install and Open](./assets/01-app-running.gif)
-
-### Required links for review and grading submission
-[Github Repository Link](https://github.com/jscobie/TextEditor)<br>
-[Heroku Deployed Site](https://stark-depths-09292.herokuapp.com/)
 
 ## Table of Contents
 
